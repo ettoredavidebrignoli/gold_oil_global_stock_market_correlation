@@ -19,3 +19,5 @@ This project focuses on the relationships among three key assets: gold, oil, and
 ## Co-authors
 - Barberio Marco
 - Venturi Agata
+
+*This project was developed for academic purposes as part of the **Econometrics** course at **Politecnico di Milano (PoliMI)**.
